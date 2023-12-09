@@ -11,7 +11,7 @@ After setting up your AWS to use this tool it is also require to create 4 bucket
     1. A bucket for your interview audio files
     2. A bucket for your interview transcript files
     3. A bucket for your model output
-    4. (Optional) A bucket for your custom classifier data 
+    4. (Optional) A bucket for your custom classifier data
 Documentation on how to create buckets can be found here: https://docs.aws.amazon.com/AmazonS3/latest/userguide/create-bucket-overview.html
 
 Finally, before getting started, upload ALL interview files to your created bucket designated for interview audio files.
@@ -26,8 +26,8 @@ Additionally documentation for this can be found here: https://docs.aws.amazon.c
 
 
 Resources used in this project:
-Amazon S3 - https://us-east-2.console.aws.amazon.com/s3/get-started?region=us-east-1&bucketType=general
-Amazon Transcribe - https://us-east-1.console.aws.amazon.com/transcribe/home?region=us-east-1#welcome
-Amazon Comprehend - https://us-east-1.console.aws.amazon.com/comprehend/home?region=us-east-1#welcome
-AWS Boto3 - https://aws.amazon.com/sdk-for-python/
-tscribe - https://pypi.org/project/tscribe/
+Amazon S3 - https://us-east-2.console.aws.amazon.com/s3/get-started?region=us-east-1&bucketType=general \
+Amazon Transcribe - https://us-east-1.console.aws.amazon.com/transcribe/home?region=us-east-1#welcome \
+Amazon Comprehend - https://us-east-1.console.aws.amazon.com/comprehend/home?region=us-east-1#welcome \
+AWS Boto3 - https://aws.amazon.com/sdk-for-python/ \
+tscribe - https://pypi.org/project/tscribe/ \
